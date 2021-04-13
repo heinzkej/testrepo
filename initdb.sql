@@ -1,0 +1,1 @@
+CREATE TABLE films (title varchar(40));
